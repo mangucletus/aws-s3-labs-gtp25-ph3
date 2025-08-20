@@ -1,0 +1,3 @@
+Cross-region replication test file 1
+Created by Cletus-Nehinlalei-Mangu
+Source: US-East-1
